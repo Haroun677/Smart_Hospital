@@ -119,21 +119,6 @@ cd Smart_Hospital
 4. Use the smartphones to test remote device control
 5. Trigger the motion detector to test the alarm system
 
----
-
-## 📁 Project Structure
-
-```
-Smart_Hospital/
-├── network_topology.pkt       # Main Packet Tracer simulation file
-├── docs/
-│   └── configuration.md       # IP addressing, routing & IoT server setup
-├── images/
-│   ├── topology.png
-│   ├── patient_room.png
-│   └── controller_site.png
-└── README.md
-```
 
 ---
 
