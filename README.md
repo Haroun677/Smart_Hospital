@@ -63,7 +63,7 @@ Remote control is enabled through smartphones, allowing staff to monitor and man
 | Switch | Cisco 2960 | 2 | LAN switching |
 | Access Point | — | 2 | Wireless (ap01, ap02) |
 | DHCP Server | — | 2 | Auto IP per site |
-| IoT Server | — | 1 | Central device management |
+
 
 ### 🚨 Security Devices — Controller Site (LAN 1)
 
